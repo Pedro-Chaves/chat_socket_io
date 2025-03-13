@@ -40,17 +40,17 @@ O servidor rodará em:
 http://localhost:3000
 
 ## 🎯 Funcionalidades
-✅ Envio e recebimento de mensagens em tempo real
-✅ Exibição automática de novas mensagens
-✅ Entrada no chat com nome de usuário
-✅ Estilização com Bootstrap
-✅ Rolagem automática do chat para novas mensagens
-✅ Envio de mensagens ao pressionar "Enter"
-✅ Suporte para múltiplas salas de chat
+- Envio e recebimento de mensagens em tempo real
+- Exibição automática de novas mensagens
+- Entrada no chat com nome de usuário
+- Estilização com Bootstrap
+- Rolagem automática do chat para novas mensagens
+- Envio de mensagens ao pressionar "Enter"
+- Suporte para múltiplas salas de chat
 
 ## 🛠 Melhorias Futuras (Sugestões)
-🔹 Histórico de mensagens (armazenamento em banco de dados)
-🔹 Autenticação de usuários
+- Histórico de mensagens (armazenamento em banco de dados)
+- Autenticação de usuários
 
 ## 🤝 Contribuição
 Sinta-se à vontade para contribuir com melhorias! Caso encontre problemas, abra uma issue ou envie um pull request.
